@@ -1,25 +1,40 @@
 const mongoose = require("mongoose");
+let Schema = mongoose.Schema;
 
 const Employee = mongoose.Schema({
   firstName: String,
   lastName: String,
   email: String,
   contact: {
-    type: Number,
+    type: String,
     require: true,
-    // validate: {
-    //   validator: function (v) {
-    //     return /d{11}/.test(v);
-    //   },
-    //   message: "{VALUE} is not a valid 10 digit number!",
-    // },
   },
   address: String,
   description: String,
-  experience: String,
-  jobPosition: String,
+  experience: {
+    type: Schema.Types.ObjectId,
+    ref: "configs",
+    autopopulate: true,
+  },
+  jobPosition: {
+    type: Schema.Types.ObjectId,
+    ref: "configs",
+    autopopulate: true,
+  },
   currentCompany: String,
+  degree: String,
+  university: {
+    type: Schema.Types.ObjectId,
+    ref: "configs",
+    autopopulate: true,
+  },
+  city: { type: Schema.Types.ObjectId, ref: "configs", autopopulate: true },
+  gender: String,
+  file: {
+    type: String,
+  },
   created: { type: Date, default: Date.now() },
 });
 
+Employee.plugin(require("mongoose-autopopulate"));
 module.exports = mongoose.model("employee", Employee);

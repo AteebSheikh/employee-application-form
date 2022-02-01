@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "novatore-forms",
+  "private_key_id": "f81dc67d6ec497fe020c36a73e0848e9143fb544",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCaVGbvwt07SvNT\nATa+s1NRlhWHjJ8WT+GboMwhcO9Fa6Jt8PpzjEwYNW0knt5nh20zBvtjXgv9fpq2\n3uNBT8Ke4gykFgoZ2mQljg7yyjAkMGEYrAWME1bX/BLDe/MkqZYS41g032qzQqC4\n9DZtJfF0HLyTKzg5CaYp+Ds6ddDwylSVyn9z/BRBKn7ZSoN5ASVLExHrW7VgivpZ\n2sj7mlwCMygIWkxzQWr5Su8OlypiLzs7hKVgos+iyxuquIk+hiLeDmRCPCh+vAT0\nPJDymikhd30hbd/JrU5W9wEqFbxoF5TOmGsYdYK30hvaz3HDFc8od3SlyZ2p3VGw\nEvKjyAdZAgMBAAECggEABLNr9EMrAnaYvU9E59+l+s73xmp34RHbVSZ7eUxLmYF7\nD96+fj0Ih1c/RRWKwDwNjTeZ+i+f7V+JHmdhJDjl/Hl1uZzLP3jZwpQWa/pRJ5UK\nrBn3TEo9g7QzrR0uLZB12ArxQaEJir7NjvyvWLlGZstGSjRPkNs0osQjJ7d1fxQa\njgsCiontFiWltsm06VBl5iF6l08YDXrF3Qz5LXSHmE9Vi4bNzd2V5YvPOMcmB3t/\nCR7UyDu2as6QrILsxScveUSvStVVjGOCMUuBlSLvTWoSFsEoaZfx9RNlPk2Qd4mk\nuHFxEXsiUFTV9+enyRAWq/li1gk6G1N+Y3WCrzXWoQKBgQDHgLbaglP/+hwmHlUS\nHGa4daTGY81u8vIOF2ybqm2DkIcmbDsK2keptjb+Gx8WeKBUJ7svJsfA0vaNWzjX\n+PBX/lM78CEcev/NBUk1Tb7NrMx7ssZahXDqzfvweCPbUPUsXDKjT1Ra6eFE/Pgk\n9WuW/H3cmZpVMcvwTMXzewv7iQKBgQDGCMoWbjbb39tK67NG+cEYKMVPTskfh57X\nkj+5hm64+0hyOQstHxjiPCiV69LEvTc/e+9u+N7ajSXEQgVY1wwsmV7x4V23DwuO\njY7+VKwbxYo1KulqLPJKlvIckF7ZWc4nKU/RWXhio6JhwI3j17dFFX5QqOLt/RKK\nA51BwHCpUQKBgQCxXzuzPCoorJq4PUGPT5b4KwgrpnHwUalpY+QY5kZlsWqne5Rm\nyrjqJ2nvM/fIx8hr6cMfYdA5HJc+CDuasOYmpaQk5xLZOnYRNsDm1k9sl1RaKhD2\nTCufZzG2k2n1xJ2mKfaPgalTBxtUdcC9Q0G7xJK2Pg6b7iEObYOVPPHjWQKBgFUX\ncb4xnWDcz11h6aaVqmK3IhDxyXnCzH3UWY1eNjVFw9tQp3y73/VV5BqHOglPRG4C\n0t7cEOXXwGKT+7gwrwp63FEShTIjRNP7/3VI7KsCNmCiD6mPpoxmT6H2Zsr9y5cI\nKUPLLe80YJGgK1e7WQRWN/BwoRGhrFWhN/EIv2ABAoGASROzHAYs/fLx1QCTKyip\nwcbAp5z6ZvODwsO/Z3HzsJlQRknD5pm/faRTSsvT8MhcA0qiqtn6B8y8KjC9lbx/\n2eYAWMKTIiwXFbPoDsixvp6CwmNE2JUutA0HLKsp5m2y6BF53Srn4MAvo3HvXOgD\ny8iHl+Y1QKTIZPjtQf6T9Po=\n-----END PRIVATE KEY-----\n",
+  "client_email": "novatore-forms@novatore-forms.iam.gserviceaccount.com",
+  "client_id": "107471479758165723260",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/novatore-forms%40novatore-forms.iam.gserviceaccount.com"
+}
